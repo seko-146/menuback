@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "node dist/server.js",
+    "start": "./start.sh",
     "dev": "nodemon src/server.ts",
     "build": "tsc"
   },
